@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* nav section */
+.home{
+    background-color: #b98e62;
+    padding: 10px 60px;
+    font-size: 25px;
+}
+/* about section */
+.about{
+    margin: 5px 150px;
+ }
+ .aboutt{
+     margin-left: 30%;
+     margin-bottom: 8px;
+     margin-top: 20px;
+ }
+ .loremm{
+     line-height: 1.8;
+ }
+ /* form section */
+ .formm{
+    margin-left: 150px;
+ }
+ .formm h3{
+    margin-top: 10px;
+ }
+ .formm button{
+    background-color: #b98e62;
+    border-radius: 5px;
+    padding: 5px;
+ }
+ /* footer section*/
+ footer{
+    background-color: #b98e62;
+   padding:20px 500px;
+ }
+ .footer i{
+    padding-left: 50px;
+    font-size: 30px;
+ }
+ .copyright{
+    margin-top: 20px;
+ }

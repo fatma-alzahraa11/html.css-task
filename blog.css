@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* nav section */
+.home{
+    background-color: #b98e62;
+    padding: 10px 60px;
+    font-size: 25px;
+}
+/* about section */
+.about{
+    background-color: rgb(182, 178, 178);
+    margin: 5px 80px;
+ }
+ .about p{
+     margin-left: 55px;
+ }
+ .aboutt{
+     margin-left: 30%;
+     margin-bottom: 8px;
+     margin-top: 25px;
+ }
+ .loremm{
+     line-height: 1.8;
+ }
+ /* our section */
+ .our{
+    display: flex;
+    margin-left: 70px;
+    margin-top: 10px;
+    line-height: 1.8;
+ }
+ .our i{
+    line-height: 1.8;
+    margin-right: 10px;
+    font-size: 20px;
+ }
+ /* container section */
+ .imagee{
+    background-color: gray;
+ }
+ .container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+ }
+ .formm{
+    margin-right: 60px;
+    margin-left: 45px;
+
+ }
+ .catoo{
+    margin-left: 45px;
+ }
+ .cato{
+    margin-top: 30px;
+ }
+ .cato{
+    margin-bottom: 10px;
+ }
+ .catoo li{
+    line-height: 1.8;
+ }
+ .text{
+    margin-left: 30px;
+ }
+ .text h3{
+    margin: 10px 0;
+ }
+ button{
+    width: 7rem;
+    height: 3rem;
+    border: none;
+    background-color: #a26912;
+    color: white;
+    margin: 20px 0;
+    padding: 5px 5px;
+    border-radius: 0.5rem;
+    outline: none;
+  }
+ button :hover{
+      cursor: pointer;
+      background-color: #b98e62;
+  }
+  /* content section */
+  .contant{
+    margin-left: 100px;
+  }
+  .contant h3{
+    margin-top: 25px;
+    margin-bottom: 7px;
+    
+  }
+  .containers{
+    display: flex;
+  }
+  /* footer section*/
+ footer{
+    margin-top: 120px;
+    background-color: #b98e62;
+   padding:20px 450px;
+ }
+ .footer i{
+    padding-left: 50px;
+    font-size: 30px;
+ }
+ .copyright{
+    margin-top: 20px;
+ }
